@@ -1,8 +1,8 @@
 class Attic < Formula
   desc "Offline disk explorer for macOS: where the space went and what to clean"
   homepage "https://github.com/sergiommarcial/attic"
-  url "https://github.com/sergiommarcial/attic/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "008073b56ce2c8c743333a59caa44ba5e55a2b81b9e4bda740bf3ae63a8862be"
+  url "https://github.com/sergiommarcial/attic/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "449c45e3fce45be84146022b00f9cb2d83bf0fcc020018179da79e985d9d5e32"
   license "MIT"
 
   depends_on "rust" => :build
